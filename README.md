@@ -9,3 +9,4 @@ The application listens on port 8000 and returns a text response when accessed o
 ## Verification
 
 The application can be verified locally through the published host port 8080.
+Within Docker networking, the application can be accessed through container port 8000.
